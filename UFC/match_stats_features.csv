@@ -1,0 +1,16 @@
+,Column_name,Predictive / Target,Description
+0,name,Not Predictive ⭐,Name of the Fight Night
+1,weight_class,Not Predictive ⭐,Weight class of fight
+2,method,Leakage,Method of win
+3,round,Not Predictive ⭐,Number of rounds in fight
+4,time,Not Predictive ⭐,Length of fight
+5,city,Not Predictive ⭐,City
+6,state,Not Predictive ⭐,If Applicable State
+7,country,Not Predictive ⭐,Country
+8,month,Not Predictive ⭐,Month
+9,day,Not Predictive ⭐,Day
+10,year,Not Predictive ⭐,Year
+11,winner,Target,0 if fighter_one wins else 1
+12,fighter_one_id,Foreign Key | Not Predictive,id of fighter one
+13,fighter_two_id,Foreign Key | Not Predictive,id of fighter two
+14,id,Foreign Key | Not Predictive,id of fight
