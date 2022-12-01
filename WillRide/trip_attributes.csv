@@ -1,0 +1,6 @@
+Column Name,Predictive / Target,Description
+trip_id,Not Predictive,Foreign Key for trips
+cost, Predictive,Estimated cost of the ride
+is_surge,Predictive,1 if surge else 0
+estimated_arrival_minutes,Predictive,Number of minutes to arrival
+distance,Predictive,Total distance of ride

@@ -1,0 +1,5 @@
+Column Name,Predictive / Target,Description
+id,Not Predictive,Primary Key | trip_id
+time_of_ride,Predictive,Timestamp of the ride taken
+did_user_cancel,Target Column,Target | 1 if ride cancelled else 0
+rider_id,Not Predictive,Foreign Key of rider
