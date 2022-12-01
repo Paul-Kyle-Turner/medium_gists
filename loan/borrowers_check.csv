@@ -1,0 +1,3 @@
+Column name,Predictive / Target,Description
+borrower_id,Not Predictive,Primary key for borrower profile.
+verification_status,Predictive,Indicates if income was verified or not verified.

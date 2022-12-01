@@ -1,0 +1,3 @@
+Column name,Predictive / Target,Description
+borrower_id,Not Predictive,Primary key for borrower profile.
+inq_date,Predictive,Date of credit inquiry.

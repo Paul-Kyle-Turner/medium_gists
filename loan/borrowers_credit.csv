@@ -1,0 +1,10 @@
+Column name,Predictive / Target,Description
+borrower_id,Not Predictive,Primary key for borrower profile.
+dti,Predictive,Ratio calculated using the borrower’s total monthly debt payments on the total debt obligations divided by the borrower’s self-reported monthly income.
+earliest_cr_line,Predictive,Month the borrower's earliest reported credit line.
+months_since_last_delinq,Predictive,Number of months since the borrower's last delinquency.
+open_accounts,Predictive,Number of open credit lines.
+pub_records,Predictive,Number of derogatory public records.
+revol_balance,Predictivee,Total credit revolving balance.
+revol_utilization,Predictivee,Amount of credit the borrower is using relative to all available revolving credit.
+total_accounts,Predictivee,Total number of credit lines currently in the borrower's credit file.

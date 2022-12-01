@@ -1,0 +1,4 @@
+Column name,Predictive / Target,Description
+loan_id,Not Predictive,Key of the loan
+borrower_id,Not Predictive,Key of the borrower
+loan_status,Target,The loans current status
