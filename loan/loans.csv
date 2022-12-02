@@ -5,5 +5,5 @@ loan_term,Predictive,The number of payments on the loan. Values are in months an
 loan_interest_rate,Predictive,Interest Rate on the loan.
 loan_installment,Predictive,Monthly payment owed by the borrower.
 loan_purpose,Predictive,Category provided by the borrower for loan request.
-grade,Predictivee,Grade of the loan given.
+grade,Predictive,Grade of the loan given.
 sub_grade,Predictive,Sub-grade of loan given.
