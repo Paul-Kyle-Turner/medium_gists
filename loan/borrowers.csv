@@ -5,4 +5,4 @@ employment_length,Predictive,Employment length in years.
 home_ownership,Predictive,Home ownership status provided.
 annual_income,Predictive,Self-reported annual income.
 zip_code,Predictive,First 3 numbers of the zip code provided by the borrower.
-address_state,Predictivee,State provided by the borrower.
+address_state,Predictive,State provided by the borrower.
